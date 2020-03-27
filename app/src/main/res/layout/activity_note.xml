@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Activity.NoteActivity">
+    <include layout="@layout/title_bar"/>
+    <EditText
+        android:id="@+id/et_note"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#202020"
+        android:hint="写点什么吧..."
+        android:paddingLeft="5dp"
+        android:gravity="start"
+        android:layout_marginTop="5dp"
+        android:textColor="#b1b1b1"
+        android:textColorHint="#a3a3a3"
+        android:textSize="14sp"
+        android:text=""/>
+
+</LinearLayout>

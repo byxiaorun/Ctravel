@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ctravel</string>
+    <string name="homename">Home</string>
+    <string name="routename">Travel Rount</string>
+    <string name="aboutname">About</string>
+    <string name="logintip">Sign in to enjoy more benefits</string>
+    <string name="loginname">Sign in</string>
+</resources>

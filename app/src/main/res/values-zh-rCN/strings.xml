@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">侣途</string>
+    <string name="homename">全部游记</string>
+    <string name="routename">路线推荐</string>
+    <string name="aboutname">关于</string>
+    <string name="logintip">登录账户享受更多权益</string>
+    <string name="loginname">登录</string>
+</resources>
